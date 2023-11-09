@@ -33,7 +33,7 @@ const SpendingBlock = ({ SpendingTitle }: any) => {
      onClick={() => toggleModal(true)}
     >
      <svg
-      className="h-8 w-8 text-gray-400 group-hover:text-white"
+      className="h-8 w-8 text-gray-400 group-hover:text-white h-full"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"

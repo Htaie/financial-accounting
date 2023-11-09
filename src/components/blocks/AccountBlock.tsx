@@ -29,7 +29,7 @@ const AccountBlock = ({ text }: any) => {
      className="group hover:bg-violet-600  pl-20 pr-20 h-16 mr-2 mb-2 m-1 border-solid border-y border-x drop-shadow-lg rounded-md"
     >
      <svg
-      className="h-8 w-8 text-gray-400 group-hover:text-white"
+      className="h-8 w-8 text-gray-400 group-hover:text-white h-full"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
